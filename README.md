@@ -1,6 +1,7 @@
 # D4rkXSS
+<br/>
 <p align="center">
-	<img src="images/logo.png" height="200"><br/>
+	<img src="https://github.com/R0X4R/D4rkXSS/blob/master/image.png" height="200"><br/>
 All in one place for XSS.<br/> <a href="https://eshansingh.in/">R0X4R</a></p>
 
 # Contribution
@@ -8,7 +9,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 	[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoff.ee/R0X4R)
 
 ## Bypass WAF
-<a href="https://eshansingh.in/">NO SCRIPT</a><br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/noscript.txt">NO SCRIPT</a><br/>
 <li>For Example:</li>
 
 ```
@@ -17,7 +18,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 <xmp><p title="</#{endtag}><svg/onload=alert(#{starttag})>">
 ```
 
-[Brutelogic XSS](D4rkXSS/brutelogic.txt)<br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/brutelogic.txt">Brutelogic</a><br/>
 <li>For Example:</li>
 
 ```
@@ -25,7 +26,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 </script><svg onload=alert(1)>
 <x contenteditable onblur=alert(1)>lose focus!
 ```
-[Fuzz3r](D4rkXSS/fuzz3r.txt)<br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/fuzz.txt">Fuzz3r</a><br/>
 <li>For Example:</li>
 
 ```
@@ -46,7 +47,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 
 
 ## Jhaddix
-[JHADDIX](D4rkXSS/jhaddix.txt "Jhaddix")<br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/jhaddix.txt">Jhaddix</a><br/>
 <li>For Example:</li>
 
 ```
@@ -58,7 +59,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 ```
 
 ## RSnake
-[RSnake](D4rkXSS/rsnake.txt "RSnake")<br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/rsnake.txt">RSnake</a><br/>
 <li>For Example:</li>
 
 ```
@@ -69,7 +70,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 ```
 
 ## MarioXSS
-[Mario](D4rkXSS/marioxss.txt "Mario")<br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/mario.txt">Mario</a><br/>
 <li>For Example:</li>
 
 ```
@@ -82,7 +83,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 <a href="https://github.com/R0X4R/D4rkXSS/blob/master/Misc.md">Misc</a><br/>
 
 ## Basic Payloads
-[Basic](D4rkXSS/basic.txt "Basic")<br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/basic.txt">Brutelogic</a><br/>
 <li>For Example:</li>
 
 ```
