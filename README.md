@@ -83,7 +83,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 <a href="https://github.com/R0X4R/D4rkXSS/blob/master/Misc.md">Misc</a><br/>
 
 ## Basic Payloads
-<a href="https://github.com/R0X4R/D4rkXSS/blob/master/basic.txt">Brutelogic</a><br/>
+<a href="https://github.com/R0X4R/D4rkXSS/blob/master/basicxss.txt">Basic</a><br/>
 <li>For Example:</li>
 
 ```
